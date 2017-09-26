@@ -1,0 +1,5 @@
+[user]
+  # user stuff
+[alias]
+  # doesn't execute multiple git commands, so 'git git status' still works
+  git = !exec git
