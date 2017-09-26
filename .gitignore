@@ -3,3 +3,6 @@
 [alias]
   # doesn't execute multiple git commands, so 'git git status' still works
   git = !exec git
+
+  # makes a pretty log
+  gitlog = log --oneline --graph --decorate
