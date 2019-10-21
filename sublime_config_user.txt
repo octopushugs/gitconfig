@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Babel/Monokai Phoenix.tmTheme",
+	"font_size": 12,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
